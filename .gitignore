@@ -1,0 +1,18 @@
+# 1. 대용량 미디어 파일 및 압축 파일 (요청하신 필수 제외 항목)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.gif
+
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+*.zip
+*.rar
+*.7z
+*.gz
+*.tar.gz
